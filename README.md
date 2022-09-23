@@ -1,5 +1,5 @@
 <h1>Hi, I'm Bugra 👋</h1>
-<h3>Frontend Developer</h3>
+<h3>Jr.Frontend Developer</h3>
 
 - 👨‍💻 I’m currently working on **GTS Global Travel Services**
 - 📫 How to reach me **contact@bugraarslan.net**
