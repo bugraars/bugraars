@@ -19,9 +19,3 @@
 <img src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg" alt="styled-components brand logo" width="64" height="64"/>
 </a> 
 </p>
-
-<h2>My Works</h2>
-<ul>
-<li><a href="https://codepen.io/bugraars/pen/GRQEXZB" target="_blank">
-  <img src="https://www.svgrepo.com/show/349323/codepen.svg" alt="styled-components brand logo" width="64" height="64"/></a></li>
-</ul>
