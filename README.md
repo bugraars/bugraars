@@ -3,8 +3,9 @@
 
 - 📫 How to reach me **contact@bugraarslan.net**
 - 👨‍💻 I’m currently working on GTS Global Travel Services*
-- 📗 I'm learning Vue.js
 - 👨🏼‍🎓 I graduated from computer engineering
+-
+- 📗 I'm learning Vue.js
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
