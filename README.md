@@ -17,3 +17,6 @@
 <img src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg" alt="styled-components brand logo" width="64" height="64"/>
 </a>
 </p>
+<h2 align="left">Images of projects:</h2>
+![webTodoApp](https://user-images.githubusercontent.com/74600408/194372529-277e0a26-8d41-43fc-b91d-a076efd2dd75.gif)
+
