@@ -18,5 +18,7 @@
 </a>
 </p>
 <h2 align="left">Images of projects:</h2>
-<img src="https://user-images.githubusercontent.com/74600408/194372529-277e0a26-8d41-43fc-b91d-a076efd2dd75.gif" alt="sass" width="128" height="256"/>
-<img src="https://user-images.githubusercontent.com/74600408/194374015-311d95ec-3906-4732-ba96-c0974c04e9da.gif" alt="sass" width="128" height="256"/>
+<div>
+<img style="display:flex" src="https://user-images.githubusercontent.com/74600408/194372529-277e0a26-8d41-43fc-b91d-a076efd2dd75.gif" alt="sass" width="128" height="256"/>
+<img style="display:flex" src="https://user-images.githubusercontent.com/74600408/194374015-311d95ec-3906-4732-ba96-c0974c04e9da.gif" alt="sass" width="128" height="256"/>
+</div>
