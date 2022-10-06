@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/74600408/194400734-e4d5a83c-49c0-44c0-b4fe-ce438ff6229f.svg" alt="sass" width="48" height="64"/>
 </a>
 <a href="#adobeXd" target="_blank">
-<img src="https://user-images.githubusercontent.com/74600408/194400734-e4d5a83c-49c0-44c0-b4fe-ce438ff6229f.svg" alt="styled-components brand logo" width="64" height="64"/>
+<img src="https://user-images.githubusercontent.com/74600408/194401067-dbff5f39-69f8-4385-8081-fd3e647af5e6.svg" alt="styled-components brand logo" width="64" height="64"/>
 </a>
 </p>
 <h2 align="left">Images of projects:</h2>
