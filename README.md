@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bugra👋</h1>
+<h1>Hi, I'm Bugra Arslan👋</h1>
 <h3>Jr.Frontend Developer</h3>
 
 - 📫 How to reach me **contact@bugraarslan.net**
