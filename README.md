@@ -18,5 +18,5 @@
 </a>
 </p>
 <h2 align="left">Images of projects:</h2>
-<img src="https://user-images.githubusercontent.com/74600408/194372529-277e0a26-8d41-43fc-b91d-a076efd2dd75.gif" alt="sass" width="64" height="64"/>
+<img src="https://user-images.githubusercontent.com/74600408/194372529-277e0a26-8d41-43fc-b91d-a076efd2dd75.gif" alt="sass" width="64" height="128"/>
 
