@@ -2,7 +2,6 @@
 <h3>Jr.Frontend Developer</h3>
 
 - 📫 How to reach me **contact@bugraarslan.net**
-- 👨‍💻 I’m currently working on GTS Global Travel Services*
 - 👨🏼‍🎓 I graduated from computer engineering
 - 📗 I'm learning Vue.js
 <h2 align="left">Languages and Tools:</h2>
