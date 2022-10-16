@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **contact@bugraarslan.net**
 - 👨🏼‍🎓 I graduated from computer engineering
-- 📗 I'm learning Vue.js
+- 📗 I'm learning React
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
