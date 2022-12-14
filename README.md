@@ -1,7 +1,7 @@
 <h1>Hi, I'm Bugra Arslan👋</h1>
 <h3>Jr.Frontend Developer</h3>
 
-- 📫 How to reach me **contact@bugraarslan.net**
+- 📫 How to reach me **contact@bugraarslan.net** or **aarslanbugra@outlook.com**
 - 👨🏼‍🎓 I graduated from computer engineering
 - 📗 I'm learning React
 <h2 align="left">Languages and Tools:</h2>
