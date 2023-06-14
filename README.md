@@ -1,7 +1,7 @@
 <h1>Hi, I'm Bugra Arslan👋</h1>
 <h3>Web Developer</h3>
 
-- 📫 How to reach me **aarslanbugra@outlook.com** **aarslanbugra@outlook.com**
+- 📫 How to reach me **aarslanbugra@outlook.com** or **aarslanbugra@outlook.com**
 - 👨🏼‍🎓 I graduated from computer engineering
 - 📗 I'm learning React
 - 💼 I work in TCDD Tasimacilik/Teknik
