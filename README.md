@@ -1,10 +1,10 @@
 <h1>Hi, I'm Bugra Arslan👋</h1>
-<h3>Jr.Frontend Developer</h3>
+<h3>Web Developer</h3>
 
-- 📫 How to reach me **aarslanbugra@gmail.com**
+- 📫 How to reach me **aarslanbugra@outlook.com** **aarslanbugra@outlook.com**
 - 👨🏼‍🎓 I graduated from computer engineering
 - 📗 I'm learning React
-- 💼 I work in TCDD Tasimacilik
+- 💼 I work in TCDD Tasimacilik/Teknik
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
