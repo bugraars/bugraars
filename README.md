@@ -1,5 +1,6 @@
 <h2>Hi, I'm Bugra Arslan👋</h2>
-### Web Developer
+
+### 💻 Full-Stack Web Developer:
 
 - 📫 Contact me **aarslanbugra@outlook.com** or **aarslanbugra@gmail.com**
 - 👨🏼‍🎓 I graduated from **computer engineering**
