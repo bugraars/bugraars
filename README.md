@@ -1,6 +1,4 @@
 <h2>Hi, I'm Bugra Arslan👋</h2>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="bugra-arslan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/bugra-arslan/en?trk=profile-badge">Bugra Arslan</a></div>
                             
 ### Full-Stack Web Developer:
 
@@ -18,4 +16,3 @@
 <img style="display:flex" src="https://user-images.githubusercontent.com/74600408/194375084-3351e18c-9d8b-4a0b-bfb0-1aeb1a42161b.gif" alt="sass" width="256" height="512"/>
 <img style="display:flex" src="https://user-images.githubusercontent.com/74600408/194374015-311d95ec-3906-4732-ba96-c0974c04e9da.gif" alt="sass" width="256" height="512"/>
 </div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
