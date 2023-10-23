@@ -1,5 +1,7 @@
 <h2>Hi, I'm Bugra Arslan👋</h2>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="buğra-arslan-7186a0180" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/bu%C4%9Fra-arslan-7186a0180/en?trk=profile-badge">Bugra Arslan</a></div>
+              
 ### Full-Stack Web Developer:
 
 - 📫 Contact me **aarslanbugra@outlook.com** or **aarslanbugra@gmail.com**
