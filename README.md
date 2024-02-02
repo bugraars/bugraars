@@ -5,7 +5,8 @@
 - 📫 Contact me **aarslanbugra@outlook.com** or **aarslanbugra@gmail.com**
 - 👨🏼‍🎓 I graduated from **computer engineering**
 - 💼 I work in TCDD Teknik - Taşımacılık
-- 📎 [My resume](https://docs.google.com/document/d/1PcP4M4WbD-G_57OmczJPORqT2_9Nwc-qPpsJZzDqpF8/edit?usp=sharing) 
+- 📎 [My resume](https://docs.google.com/document/d/1PcP4M4WbD-G_57OmczJPORqT2_9Nwc-qPpsJZzDqpF8/edit?usp=sharing)
+- 📎 [Medium Blog]([https://docs.google.com/document/d/1PcP4M4WbD-G_57OmczJPORqT2_9Nwc-qPpsJZzDqpF8/edit?usp=sharing](https://medium.com/@bugraa999)) 
 
 ### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%2338B2AC.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
