@@ -4,7 +4,6 @@
 
 - 📫 Contact me **aarslanbugra@outlook.com** or **aarslanbugra@gmail.com**
 - 👨🏼‍🎓 I graduated from **computer engineering**
-- 💼 I work in TCDD Teknik - Taşımacılık
 - 💡 [Medium Blog](https://medium.com/@bugraa999) 📎 [My resume](https://docs.google.com/document/d/1PcP4M4WbD-G_57OmczJPORqT2_9Nwc-qPpsJZzDqpF8/edit?usp=sharing)  
 
 ### Tech Stack:
